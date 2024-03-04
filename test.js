@@ -16,7 +16,7 @@ if (score!==0){
     console.log("Score is available");
 }
 
-if (score === true){
+if (score == true){
     console.log("Score is evaluated as truthy.");
 } else {
     console.log("Score isn't truthy.");
